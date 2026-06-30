@@ -2,11 +2,11 @@
 
 ## Student Information
 
-**Student Name:** Your Full Name
+**Student Name:** Michael Vincent H. Sabungey
 
 **Course:** Bachelor of Science in Information Technology
 
-**Section:** BSIT-2A
+**Section:** BSIT-4A
 
 ---
 
@@ -38,5 +38,5 @@ I am an IT student who is interested in software and application development. I 
 
 ## Contact
 
-- Email: your.email@example.com
+- Email: sabungeymichael@gmail.com
 - GitHub: https://github.com/yourusername
